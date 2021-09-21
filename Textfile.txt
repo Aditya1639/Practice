@@ -1,2 +1,2 @@
 Hello World
-Some changes introduced
+This is feature 1
